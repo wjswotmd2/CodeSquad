@@ -1,4 +1,4 @@
-package Example01;
+package Day01;
 
 public class star05 {
     public static void main(String[] args) {
@@ -13,6 +13,8 @@ public class star05 {
                System.out.print("*");
            }
            System.out.println();
+
+
        }
 
     }
