@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Code Squad.iml" filepath="$PROJECT_DIR$/.idea/Code Squad.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example/Example.iml" filepath="$PROJECT_DIR$/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelfPratice/SelfPratice.iml" filepath="$PROJECT_DIR$/SelfPratice/SelfPratice.iml" />
     </modules>
   </component>
 </project>
