@@ -1,4 +1,4 @@
-package algorithm02_12_06.algorithm02_12_05;
+package algorithm02_12_06;
 
 import java.util.Scanner;
 public class BaekJoon1267 {
